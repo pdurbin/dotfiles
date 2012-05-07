@@ -1,0 +1,17 @@
+[user]
+	name  = Philip Durbin
+	email = philipdurbin@gmail.com
+[alias]
+	alias   = config --list
+	co      = checkout
+	changes = diff --name-status -r
+	details = log --name-status
+	lately  = log --name-status --since=\"2 weeks ago\" 
+	logp    = log -p   # show log and diffs together
+	diffy   = diff @{yesterday}
+	diffw   = diff @{\"1 week ago\"}
+	whowhat = log --name-status --pretty=format:\"%an: %s\"
+[diff]
+	renames = true
+[color]
+	status = auto
