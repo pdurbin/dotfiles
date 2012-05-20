@@ -1,2 +1,0 @@
-#!/bin/sh
-./link-files --source . --dest ~ --dry-run
