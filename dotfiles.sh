@@ -1,5 +1,5 @@
 #!/bin/bash 
-CMD="./helper --source . --dest $HOME --add-ignore=dotfiles.sh --add-ignore=helper"
+CMD="./helper --source . --dest $HOME --add-ignore=dotfiles.sh --add-ignore=helper --add-ignore=perl-File-LinkDir.spec"
 
 case "$1" in
   -m|--make-links)
