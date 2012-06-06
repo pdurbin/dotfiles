@@ -15,3 +15,5 @@ if [[ $OSTYPE == 'darwin10.0' ]]; then
   # http://transfixedbutnotdead.com/2010/01/24/mac-os-x-snow-leopard-10-6-and-perl/
   source ~/perl5/perlbrew/etc/bashrc
 fi
+
+export PATH=$PATH:$HOME/gr/scripts
