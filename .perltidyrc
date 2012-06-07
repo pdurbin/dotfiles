@@ -1,1 +1,2 @@
 --noblanks-before-comments
+--maximum-line-length=120
