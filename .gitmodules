@@ -1,3 +1,6 @@
 [submodule ".vim/bundle/ikiwiki-syntax"]
 	path = .vim/bundle/ikiwiki-syntax
 	url = https://github.com/vim-scripts/ikiwiki-syntax.git
+[submodule ".vim/bundle/vim-markdown-plasticboy"]
+	path = .vim/bundle/vim-markdown-plasticboy
+	url = https://github.com/pdurbin/vim-markdown-plasticboy.git
