@@ -4,3 +4,6 @@
 [submodule ".vim/bundle/vim-markdown-plasticboy"]
 	path = .vim/bundle/vim-markdown-plasticboy
 	url = https://github.com/pdurbin/vim-markdown-plasticboy.git
+[submodule "bundle/tcomment_vim"]
+	path = bundle/tcomment_vim
+	url = https://github.com/tomtom/tcomment_vim
