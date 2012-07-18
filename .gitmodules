@@ -7,6 +7,3 @@
 [submodule ".vim/bundle/tcomment_vim"]
 	path = .vim/bundle/tcomment_vim
 	url = https://github.com/tomtom/tcomment_vim
-[submodule ".vim/bundle/tsv"]
-	path = .vim/bundle/tsv
-	url = git.greptilian.com:/var/lib/git/vim-tsv.git
