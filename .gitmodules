@@ -10,3 +10,6 @@
 [submodule ".vim/bundle/tsv"]
 	path = .vim/bundle/tsv
 	url = https://github.com/pdurbin/vim-tsv.git
+[submodule ".vim/bundle/vim-gnupg"]
+	path = .vim/bundle/vim-gnupg
+	url = https://github.com/jamessan/vim-gnupg.git
