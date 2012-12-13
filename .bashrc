@@ -17,7 +17,7 @@ if [[ $OSTYPE == 'darwin10.0' ]]; then
   source ~/perl5/perlbrew/etc/bashrc
 fi
 
-export PATH=$PATH:$HOME/gr/scripts
+export PATH=$PATH:$HOME/github/pdurbin/scripts
 
 [[ -d /opt/vagrant/bin ]] && export PATH=$PATH:/opt/vagrant/bin 
 
