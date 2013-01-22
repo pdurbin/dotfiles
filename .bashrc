@@ -26,3 +26,5 @@ export PATH=$PATH:$HOME/github/pdurbin/scripts
 eval $(perl -I$HOME/perl5/lib/perl5 -Mlocal::lib)
 
 source ~/stuff/etc/.bashrc
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
