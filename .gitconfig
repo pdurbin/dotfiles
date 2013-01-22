@@ -11,6 +11,7 @@
 	diffy   = diff @{yesterday}
 	diffw   = diff @{\"1 week ago\"}
 	whowhat = log --name-status --pretty=format:\"%an: %s\"
+	harvard = config user.email philip_durbin@harvard.edu
 [diff]
 	renames = true
 [color]
